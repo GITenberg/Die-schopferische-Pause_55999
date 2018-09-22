@@ -1,11 +1,16 @@
 _repo: Die-schopferische-Pause_55999
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55999-h/images/cover.jpg
 creator:
   author:
     agent_name: Klatt, Fritz
     gutenberg_agent_id: '48615'
     url: http://www.gutenberg.org/2009/agents/48615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55999#Die-schopferische-Pause
 gutenberg_issued: '2017-11-19'
 gutenberg_type: Text
 identifiers:
